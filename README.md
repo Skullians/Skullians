@@ -1,5 +1,5 @@
 <h1 align="center">Hey! o/ I'm Skull, or Skullian :)</h1>
-<h3 align="center">I'm a coder learning Java and Javascriptm and likes to dabble in Python sometimes :D</h3>
+<h3 align="center">I'm a coder learning Java and Javascript and likes to dabble in Python sometimes :D</h3>
 
 
 <!--
