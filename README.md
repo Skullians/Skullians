@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 [TBM Striker's](https://twitch.tv/tbm_striker) Community Server [The Bonked Minecraft](https://github.com/TheBonkedMinecraft)<br><br>🌱 I'm currently learning Java, JavaScript and Node.js
+🔭 Currently working on [TBM Striker's](https://twitch.tv/tbm_striker) Community Server [The Bonked Minecraft](https://github.com/TheBonkedMinecraft)<br><br>🌱 I'm currently learning Java, JavaScript and Node.js
 
 
 # 💻 Tech Stack:
