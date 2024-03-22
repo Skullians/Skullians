@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on [TBM Striker's](https://twitch.tv/tbm_striker) Community Server [The Bonked Minecraft](https://github.com/TheBonkedMinecraft)<br><br> I'm currently learning Java, JS, Node.js, HTML & CSS (yes quite a lot)
+I'm currently working on [Binary Searchinator](https://github.com/Skullians/BinarySearchinator), a tool for fixing issues in Minecraft servers. <br><br> I'm currently learning Java, JS, Node.js, HTML & CSS (yes quite a lot)
 
 
 
