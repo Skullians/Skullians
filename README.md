@@ -10,7 +10,7 @@ I'm currently working on [Binary Searchinator](https://github.com/Skullians/Bina
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullians&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### Repo Stats
-![](https://github-contributor-stats.vercel.app/api?username=Skullians&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Skullians&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Skullians&icon=8&color=12)](https://visitcount.itsvg.in)
