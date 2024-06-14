@@ -15,4 +15,4 @@ I'm currently working on [Binary Searchinator](https://github.com/Skullians/Bina
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Skullians&icon=8&color=12)](https://visitcount.itsvg.in)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/740153472086835221)
