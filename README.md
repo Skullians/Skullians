@@ -10,9 +10,5 @@ I'm currently working on [Binary Searchinator](https://github.com/Skullians/Bina
 ### Repo Stats
 ![](https://github-contributor-stats.vercel.app/api?username=Skullians&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/740153472086835221?hideDiscrim=true%22%20alt=%22Discord%20Presence%22%20align=%22center%22%20width=%22340%22"  alt="Discord Presence" align="center" width="340">
-<br>
-
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/740153472086835221)](https://discord.com/users/740153472086835221)
