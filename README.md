@@ -7,8 +7,9 @@ I'm currently working on [Binary Searchinator](https://github.com/Skullians/Bina
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Skullians&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullians&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Repo Stats
+### Stats
 ![](https://github-contributor-stats.vercel.app/api?username=Skullians&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Skullians\&layout=compact)
 
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/740153472086835221)](https://discord.com/users/740153472086835221)
