@@ -9,7 +9,5 @@ I'm currently working on [Binary Searchinator](https://github.com/Skullians/Bina
 
 ### Stats
 ![](https://github-contributor-stats.vercel.app/api?username=Skullians&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Skullians\&layout=compact)
-
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/740153472086835221)](https://discord.com/users/740153472086835221)
