@@ -6,6 +6,7 @@ I'm currently working on too many projects at once. <br><br> I'm currently learn
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Skullians&show_icons=true&theme=transparent)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[![Skullians's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skullians)]
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullians&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### Stats
