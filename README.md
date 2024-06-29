@@ -5,6 +5,15 @@ I'm currently working on too many projects at once. <br><br> I'm currently learn
 # Stats:
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Skullians&show_icons=true&theme=transparent)
 <!--START_SECTION:waka-->
+
+```txt
+Java         3 hrs 24 mins   ██████████████████▒░░░░░░   73.21 %
+YAML         1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+XML          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+CLASS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+```
+
 <!--END_SECTION:waka-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullians&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
