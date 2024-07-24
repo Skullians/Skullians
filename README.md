@@ -7,11 +7,9 @@ I'm currently working on too many projects at once. <br><br> I'm currently learn
 <!--START_SECTION:waka-->
 
 ```txt
-Java              3 hrs 2 mins    █████████████████░░░░░░░░   68.30 %
-YAML              1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
-Java Properties   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-XML               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java   1 hr 32 mins    ███████████████████░░░░░░   76.19 %
+YAML   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+XML    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
