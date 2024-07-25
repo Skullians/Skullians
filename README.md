@@ -9,9 +9,9 @@ I'm currently working on too many projects at once. <br><br> I'm currently learn
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 32 mins    ███████████████████░░░░░░   76.19 %
-YAML   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-XML    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Java   55 mins         ██████████████████▒░░░░░░   73.87 %
+YAML   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
+XML    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
