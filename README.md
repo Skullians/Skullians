@@ -9,11 +9,11 @@ I'm currently working on too many projects at once. <br><br> I'm currently learn
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  6 hrs 35 mins   ██████████████████▓░░░░░░   74.03 %
-XML                   1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-YAML                  11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-JSON                  10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-GitIgnore file        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Java                  5 hrs 22 mins   ███████████████████░░░░░░   76.22 %
+XML                   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Java Properties       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+GitIgnore file        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+textmate              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
