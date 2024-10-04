@@ -17,9 +17,12 @@ Gradle            29 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullians&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### Stats
 ![](https://github-contributor-stats.vercel.app/api?username=Skullians&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/740153472086835221)](https://discord.com/users/740153472086835221)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Skullians/Skullians/output/snake.svg" alt="Snake animation" />
+</div>
