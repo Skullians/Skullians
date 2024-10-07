@@ -24,5 +24,5 @@ Dart              5 mins          ░░░░░░░░░░░░░░░�
 [![Discord Presence](https://lanyard.cnrad.dev/api/740153472086835221)](https://discord.com/users/740153472086835221)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Skullians/Skullians/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Skullians/Skullians/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
