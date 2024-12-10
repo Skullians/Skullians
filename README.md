@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on too many projects at once. <br><br> I'm currently learning Java, JS, Node.js, HTML & CSS (yes quite a lot)
+I'm currently working on too many projects at once. <br><br> I'm currently learning Java, JS, Node.js, HTML & CSS.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
