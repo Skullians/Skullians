@@ -9,11 +9,11 @@ I'm currently working on too many projects at once. <br><br> I'm currently learn
 <!--START_SECTION:waka-->
 
 ```txt
-Java              25 hrs 39 mins  ████████████████████▓░░░░   82.58 %
-YAML              1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Gradle            1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Groovy            35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Batchfile         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Java              25 hrs 23 mins  █████████████████████░░░░   84.10 %
+YAML              2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Gradle            50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Groovy            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Properties        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
