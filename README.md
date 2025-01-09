@@ -9,11 +9,11 @@ I'm currently working on too many projects at once. <br><br> I'm currently learn
 <!--START_SECTION:waka-->
 
 ```txt
-Java         3 hrs 49 mins   ████████████████████▓░░░░   82.97 %
-YAML         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Gradle       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Java         4 hrs 25 mins   ████████████████████▒░░░░   81.18 %
+YAML         39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Gradle       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+XML          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
