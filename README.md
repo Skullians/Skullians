@@ -17,6 +17,10 @@ Gradle            35 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## Total Stats
+![Language Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skullians&layout=compact)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/740153472086835221)](https://discord.com/users/740153472086835221)
 
 <div align="center">
