@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on too many projects at once. <br><br> I'm currently learning Java, JS, Node.js, HTML & CSS.
+I'm currently working on too many projects at once. <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
@@ -18,7 +18,7 @@ JSON             2 mins          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Total Stats
+## All Time Stats
 ![Language Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skullians&layout=compact)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/740153472086835221)](https://discord.com/users/740153472086835221)
