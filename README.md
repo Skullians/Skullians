@@ -9,11 +9,11 @@ I'm currently working on too many projects at once. <br>
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            6 hrs 9 mins    ███████████████░░░░░░░░░░   60.16 %
-Java              2 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.80 %
-TOML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-YAML              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Markdown          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Kotlin            10 hrs 41 mins  ███████████████▓░░░░░░░░░   62.05 %
+Java              3 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+YAML              57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+TOML              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Groovy            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
