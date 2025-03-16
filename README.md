@@ -14,7 +14,7 @@ Groovy                     35 mins         ▓░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## All Time Stats
+### All Time
 ![Language Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skullians&layout=compact)
 
 <div align="center">
