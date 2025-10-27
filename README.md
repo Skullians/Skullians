@@ -4,9 +4,9 @@
   ### 👨🏻‍💻 &nbsp;About Me
 
   📄 &nbsp;I'm currently working on too many projects at once.\
-  💻 &nbsp;I'm primarily a backend developer using Java, and dabble with Kotlin from time to time.\
+  💻 &nbsp;I'm primarily a backend developer using Java & Kotlin.\
   💡 &nbsp;I'm currently learning frontend development with [Next.js](https://nextjs.org).\
-  🌱 &nbsp;In my free time, I create open source projects.
+  🌱 &nbsp;In my free time, I create open source projects that take all of my free time :P
 
   ### 🛠 &nbsp;Tech Stack
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
