@@ -5,7 +5,7 @@
 
   📄 &nbsp;I'm currently working on too many projects at once.\
   💻 &nbsp;I'm primarily a backend developer using Java & Kotlin.\
-  💡 &nbsp;I'm currently learning frontend development with [Next.js](https://nextjs.org).\
+  💡 &nbsp;I'm currently learning C++.\
   🌱 &nbsp;In my free time, I create open source projects that take all of my free time :P
 
   ### 🛠 &nbsp;Tech Stack
